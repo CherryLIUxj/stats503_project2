@@ -1,0 +1,376 @@
+Trial 0, Params: {'colsample_bylevel': 0.9686507814109439}, Value: 0.8154972785709667
+Trial 1, Params: {'colsample_bylevel': 0.999165461971739}, Value: 0.8204759049987048
+Trial 2, Params: {'colsample_bylevel': 0.939525756704686}, Value: 0.8204907962418064
+Trial 3, Params: {'colsample_bylevel': 0.9808458619010083}, Value: 0.8175886130453955
+Trial 4, Params: {'colsample_bylevel': 0.9403308803054711}, Value: 0.817652150111217
+Trial 5, Params: {'colsample_bylevel': 0.8960583313802597}, Value: 0.8140064101386036
+Trial 6, Params: {'colsample_bylevel': 0.8944424877672417}, Value: 0.818222411082067
+Trial 7, Params: {'colsample_bylevel': 0.9006246570764047}, Value: 0.8202123427035476
+Trial 8, Params: {'colsample_bylevel': 0.9186187590946665}, Value: 0.8206846994402215
+Trial 9, Params: {'colsample_bylevel': 0.8453224357531026}, Value: 0.8183675051075795
+Trial 10, Params: {'colsample_bylevel': 0.8087704391720374}, Value: 0.8206785606855875
+Trial 11, Params: {'colsample_bylevel': 0.8143344657780026}, Value: 0.8143430207976177
+Trial 12, Params: {'colsample_bylevel': 0.8588933861043504}, Value: 0.8237422761724142
+Trial 13, Params: {'colsample_bylevel': 0.8586514147682297}, Value: 0.8201276311634522
+Trial 14, Params: {'colsample_bylevel': 0.8624584322316216}, Value: 0.8198895422724124
+Trial 15, Params: {'colsample_bylevel': 0.9229518948747828}, Value: 0.8182071929461431
+Trial 16, Params: {'colsample_bylevel': 0.8448377056541994}, Value: 0.8192451670261376
+Trial 17, Params: {'colsample_bylevel': 0.8734341369746438}, Value: 0.8197775176372828
+Trial 18, Params: {'colsample_bylevel': 0.9182362429470918}, Value: 0.8198767206278207
+Trial 19, Params: {'colsample_bylevel': 0.835924747556063}, Value: 0.815003189740534
+Trial 20, Params: {'colsample_bylevel': 0.8769511479847356}, Value: 0.8215622376187268
+Trial 21, Params: {'colsample_bylevel': 0.8799665375439196}, Value: 0.8194839659987341
+Trial 22, Params: {'colsample_bylevel': 0.9131373654664615}, Value: 0.8206589750152101
+Trial 23, Params: {'colsample_bylevel': 0.8258869219898983}, Value: 0.8174470756393297
+Trial 24, Params: {'colsample_bylevel': 0.8770936790905852}, Value: 0.8198424319926139
+Trial 25, Params: {'colsample_bylevel': 0.9540131940334113}, Value: 0.8233440602830046
+Trial 26, Params: {'colsample_bylevel': 0.9541625585401111}, Value: 0.8228536567408253
+Trial 27, Params: {'colsample_bylevel': 0.9563231930132309}, Value: 0.8247439054444217
+Trial 28, Params: {'colsample_bylevel': 0.9712782459862295}, Value: 0.821051716080899
+Trial 29, Params: {'colsample_bylevel': 0.9563179571884298}, Value: 0.8247439054444217
+Trial 30, Params: {'colsample_bylevel': 0.9990502734464299}, Value: 0.8216518438925775
+Trial 31, Params: {'colsample_bylevel': 0.9563968685739113}, Value: 0.8204027105583492
+Trial 32, Params: {'colsample_bylevel': 0.9348326910228982}, Value: 0.8160086731112612
+Trial 33, Params: {'colsample_bylevel': 0.9831845800367608}, Value: 0.8189343264218
+Trial 34, Params: {'colsample_bylevel': 0.9530496551753018}, Value: 0.8221886251013905
+Trial 35, Params: {'colsample_bylevel': 0.9701434611051135}, Value: 0.8182601720778656
+Trial 36, Params: {'colsample_bylevel': 0.9373992452383902}, Value: 0.8148907944317999
+Trial 37, Params: {'colsample_bylevel': 0.9880415391184139}, Value: 0.8202937482685535
+Trial 38, Params: {'colsample_bylevel': 0.9601161513047622}, Value: 0.8187562077944464
+Trial 39, Params: {'colsample_bylevel': 0.9451312367117866}, Value: 0.8185932149018992
+Trial 40, Params: {'colsample_bylevel': 0.9255523031080553}, Value: 0.8177978604921268
+Trial 41, Params: {'colsample_bylevel': 0.9646918100375481}, Value: 0.8186039039241748
+Trial 42, Params: {'colsample_bylevel': 0.9477732307791594}, Value: 0.8226962472700565
+Trial 43, Params: {'colsample_bylevel': 0.9027569410923016}, Value: 0.8177975058919383
+Trial 44, Params: {'colsample_bylevel': 0.9753288730433758}, Value: 0.8201600904792071
+Trial 45, Params: {'colsample_bylevel': 0.9914146124561629}, Value: 0.817355333070862
+Trial 46, Params: {'colsample_bylevel': 0.9354297073529153}, Value: 0.8177034858728509
+Trial 47, Params: {'colsample_bylevel': 0.9522140518762534}, Value: 0.819275502940723
+Trial 48, Params: {'colsample_bylevel': 0.963791008955858}, Value: 0.8225042119397192
+Trial 49, Params: {'colsample_bylevel': 0.8871497127450853}, Value: 0.8180599294609824
+Trial 0, Params: {'n_estimators': 4000}, Value: 0.8518184464759064
+Trial 0, Params: {'learning_rate': 0.1}, Value: 0.848454597428838
+Trial 1, Params: {'learning_rate': 0.001}, Value: 0.3738796326881151
+Trial 2, Params: {'learning_rate': 0.1}, Value: 0.848454597428838
+Trial 3, Params: {'learning_rate': 0.05}, Value: 0.8451297543272475
+Trial 4, Params: {'learning_rate': 0.3}, Value: 0.8310576452945426
+Trial 5, Params: {'learning_rate': 0.001}, Value: 0.3738796326881151
+Trial 0, Params: {'learning_rate': 0.015378834560181609, 'colsample_bylevel': 0.9755414948839112}, Value: 0.4189242449000611
+Trial 1, Params: {'learning_rate': 0.020354746291708345, 'colsample_bylevel': 0.8914418364227227}, Value: 0.45112844129130325
+Trial 2, Params: {'learning_rate': 0.055020707919237785, 'colsample_bylevel': 0.8035054965919328}, Value: 0.5967274523513277
+Trial 3, Params: {'learning_rate': 0.037432967293702414, 'colsample_bylevel': 0.965771706473315}, Value: 0.5306409292716083
+Trial 4, Params: {'learning_rate': 0.08325073789141177, 'colsample_bylevel': 0.8104356240257735}, Value: 0.6682411002814244
+Trial 5, Params: {'learning_rate': 0.03499648769655348, 'colsample_bylevel': 0.879408221438012}, Value: 0.5230584615332167
+Trial 6, Params: {'learning_rate': 0.04022274464293057, 'colsample_bylevel': 0.842062752082132}, Value: 0.5435299324646481
+Trial 7, Params: {'learning_rate': 0.019364489706833438, 'colsample_bylevel': 0.9543720175663764}, Value: 0.44596271086439926
+Trial 8, Params: {'learning_rate': 0.01828547888081808, 'colsample_bylevel': 0.8749018828654945}, Value: 0.4380834883973484
+Trial 9, Params: {'learning_rate': 0.022398516759016624, 'colsample_bylevel': 0.8037998541232492}, Value: 0.46162732772758197
+Trial 10, Params: {'learning_rate': 0.0962210956617653, 'colsample_bylevel': 0.926792499382828}, Value: 0.6889592440353117
+Trial 0, Params: {'learning_rate': 0.27545904682419337, 'colsample_bylevel': 0.9871249442445037}, Value: 0.8075147366761817
+Trial 1, Params: {'learning_rate': 0.12596080413385216, 'colsample_bylevel': 0.936515802552248}, Value: 0.7311009759234529
+Trial 2, Params: {'learning_rate': 0.12320641333066511, 'colsample_bylevel': 0.8347494630342877}, Value: 0.726033126895624
+Trial 3, Params: {'learning_rate': 0.22372788907593197, 'colsample_bylevel': 0.9762523307518144}, Value: 0.7988468122562272
+Trial 4, Params: {'learning_rate': 0.20728738508438543, 'colsample_bylevel': 0.9840417194980434}, Value: 0.7904649681493364
+Trial 5, Params: {'learning_rate': 0.10357684299968548, 'colsample_bylevel': 0.8624290589149141}, Value: 0.7042165152830144
+Trial 6, Params: {'learning_rate': 0.1906890933971466, 'colsample_bylevel': 0.9307284683354923}, Value: 0.7871537819113305
+Trial 7, Params: {'learning_rate': 0.12034547535359959, 'colsample_bylevel': 0.9182293962486531}, Value: 0.7258586877713843
+Trial 8, Params: {'learning_rate': 0.23173333621890932, 'colsample_bylevel': 0.8551803683995847}, Value: 0.8017884415244947
+Trial 9, Params: {'learning_rate': 0.18585172688235255, 'colsample_bylevel': 0.8766991179025505}, Value: 0.7848323492168836
+Trial 10, Params: {'learning_rate': 0.2999028196162151, 'colsample_bylevel': 0.9991739343760756}, Value: 0.8148261348778207
+Trial 11, Params: {'learning_rate': 0.29518700285044824, 'colsample_bylevel': 0.99869151829754}, Value: 0.8161735609776295
+Trial 12, Params: {'learning_rate': 0.2976081771783069, 'colsample_bylevel': 0.9544557972823177}, Value: 0.8152254516544433
+Trial 13, Params: {'learning_rate': 0.2560778549536062, 'colsample_bylevel': 0.9495315029946023}, Value: 0.8073049276818898
+Trial 14, Params: {'learning_rate': 0.15671109355055712, 'colsample_bylevel': 0.9548028797503163}, Value: 0.7667093238709013
+Trial 15, Params: {'learning_rate': 0.1583948515177678, 'colsample_bylevel': 0.8989182674328592}, Value: 0.7647524126873974
+Trial 16, Params: {'learning_rate': 0.29740568426019487, 'colsample_bylevel': 0.8011895813767714}, Value: 0.8137259123196161
+Trial 17, Params: {'learning_rate': 0.2524195401915721, 'colsample_bylevel': 0.9649003165264224}, Value: 0.8067435600815855
+Trial 18, Params: {'learning_rate': 0.24726126959062414, 'colsample_bylevel': 0.9040733145809478}, Value: 0.8071342161196045
+Trial 19, Params: {'learning_rate': 0.21202760453749797, 'colsample_bylevel': 0.9617305486017673}, Value: 0.7952123305495321
+Trial 20, Params: {'learning_rate': 0.2727351592034788, 'colsample_bylevel': 0.9906991274370058}, Value: 0.8088523913226059
+Trial 21, Params: {'learning_rate': 0.2895714565702783, 'colsample_bylevel': 0.9992691282420196}, Value: 0.8115520849970439
+Trial 22, Params: {'learning_rate': 0.2955973261686536, 'colsample_bylevel': 0.9987862277962127}, Value: 0.8157956439924672
+Trial 23, Params: {'learning_rate': 0.2647327012545122, 'colsample_bylevel': 0.97162485523548}, Value: 0.8131453229818428
+Trial 24, Params: {'learning_rate': 0.2368740864055418, 'colsample_bylevel': 0.9462040147969858}, Value: 0.8048862821008642
+Trial 25, Params: {'learning_rate': 0.28036199628107306, 'colsample_bylevel': 0.977377245919757}, Value: 0.813912429234217
+Trial 26, Params: {'learning_rate': 0.21197693416433666, 'colsample_bylevel': 0.965806479057532}, Value: 0.7953171865322028
+Trial 27, Params: {'learning_rate': 0.26558298992110746, 'colsample_bylevel': 0.926634187731194}, Value: 0.8115073983962693
+Trial 28, Params: {'learning_rate': 0.1655031268515405, 'colsample_bylevel': 0.942829006826493}, Value: 0.7685830480401076
+Trial 29, Params: {'learning_rate': 0.13913870490622104, 'colsample_bylevel': 0.987541677735293}, Value: 0.752315912118493
+Trial 30, Params: {'learning_rate': 0.2778408868842698, 'colsample_bylevel': 0.9870423141451014}, Value: 0.8102657941225179
+Trial 31, Params: {'learning_rate': 0.2980533809833677, 'colsample_bylevel': 0.9987274885106454}, Value: 0.8153879818707563
+Trial 32, Params: {'learning_rate': 0.2979976973675714, 'colsample_bylevel': 0.9963344303960356}, Value: 0.8160153934619157
+Trial 33, Params: {'learning_rate': 0.24685573129776173, 'colsample_bylevel': 0.9986923522761911}, Value: 0.8047024797081956
+Trial 34, Params: {'learning_rate': 0.2729774509342019, 'colsample_bylevel': 0.9749729287847189}, Value: 0.8095173971451487
+Trial 35, Params: {'learning_rate': 0.22382291879716937, 'colsample_bylevel': 0.981192432506559}, Value: 0.8010379272262078
+Trial 36, Params: {'learning_rate': 0.280091293532589, 'colsample_bylevel': 0.9907663542874766}, Value: 0.8133496128442248
+Trial 37, Params: {'learning_rate': 0.25834178707676064, 'colsample_bylevel': 0.9746567821305161}, Value: 0.811366050482533
+Trial 38, Params: {'learning_rate': 0.19539999359981933, 'colsample_bylevel': 0.9978080795102735}, Value: 0.7866474701647689
+Trial 39, Params: {'learning_rate': 0.23870662319582484, 'colsample_bylevel': 0.9822892235558092}, Value: 0.8030100851119523
+Trial 40, Params: {'learning_rate': 0.2893592872087387, 'colsample_bylevel': 0.9634870173445749}, Value: 0.8166074576788945
+Trial 41, Params: {'learning_rate': 0.28342530591519294, 'colsample_bylevel': 0.9905339805018956}, Value: 0.8119204871033009
+Trial 42, Params: {'learning_rate': 0.2998541665519743, 'colsample_bylevel': 0.9604754310365863}, Value: 0.8144415234755723
+Trial 43, Params: {'learning_rate': 0.10297924933219615, 'colsample_bylevel': 0.9699944299512304}, Value: 0.7040173827110788
+Trial 44, Params: {'learning_rate': 0.26538293253605305, 'colsample_bylevel': 0.9998026282442531}, Value: 0.8098038030616758
+Trial 45, Params: {'learning_rate': 0.285692447166053, 'colsample_bylevel': 0.9367023071400152}, Value: 0.811402554778358
+Trial 46, Params: {'learning_rate': 0.22448899441283207, 'colsample_bylevel': 0.9816261853280258}, Value: 0.7981229632445769
+Trial 47, Params: {'learning_rate': 0.2895246134321466, 'colsample_bylevel': 0.8321227721273677}, Value: 0.8096549556481445
+Trial 48, Params: {'learning_rate': 0.24209033644172065, 'colsample_bylevel': 0.9112862514278807}, Value: 0.8056286331709993
+Trial 49, Params: {'learning_rate': 0.11139013806335113, 'colsample_bylevel': 0.8763256668400399}, Value: 0.7143757225753308
+Trial 0, Params: {'learning_rate': 0.35919344677388276, 'colsample_bylevel': 0.919765503269524, 'bagging_temperature': 0.9356160777948609}, Value: 0.8201940058477744
+Trial 1, Params: {'learning_rate': 0.38329415675943135, 'colsample_bylevel': 0.9459055284744897, 'bagging_temperature': 0.9117138947681961}, Value: 0.8212954156869573
+Trial 2, Params: {'learning_rate': 0.47371760831108267, 'colsample_bylevel': 0.8681951658644207, 'bagging_temperature': 0.9226763670345178}, Value: 0.8158810822382092
+Trial 3, Params: {'learning_rate': 0.4308468477003334, 'colsample_bylevel': 0.9339338995714961, 'bagging_temperature': 0.9821324521753115}, Value: 0.8153789836161082
+Trial 4, Params: {'learning_rate': 0.21535635177763257, 'colsample_bylevel': 0.9294547136924035, 'bagging_temperature': 0.9784967601062057}, Value: 0.7963341160605258
+Trial 5, Params: {'learning_rate': 0.42731247885274776, 'colsample_bylevel': 0.9731198244118826, 'bagging_temperature': 0.8291784680260404}, Value: 0.8193032975290759
+Trial 6, Params: {'learning_rate': 0.3233343455052946, 'colsample_bylevel': 0.9928365750355229, 'bagging_temperature': 0.8510346013542526}, Value: 0.8163755128991742
+Trial 7, Params: {'learning_rate': 0.4541028134042392, 'colsample_bylevel': 0.8165746760818438, 'bagging_temperature': 0.8104688962305469}, Value: 0.814571488252746
+Trial 8, Params: {'learning_rate': 0.41997891639003626, 'colsample_bylevel': 0.9737629759470967, 'bagging_temperature': 0.9410284315866365}, Value: 0.8217302313976586
+Trial 9, Params: {'learning_rate': 0.2239800234296794, 'colsample_bylevel': 0.8127748996472139, 'bagging_temperature': 0.955070689136959}, Value: 0.7969925960437335
+Trial 10, Params: {'learning_rate': 0.2992065653526108, 'colsample_bylevel': 0.8798901586534223, 'bagging_temperature': 0.8714279310277215}, Value: 0.8135917871214197
+Trial 11, Params: {'learning_rate': 0.38390579261730035, 'colsample_bylevel': 0.962745703944455, 'bagging_temperature': 0.8954494836246871}, Value: 0.8190805949772569
+Trial 12, Params: {'learning_rate': 0.3783184514900152, 'colsample_bylevel': 0.9598788655649415, 'bagging_temperature': 0.9025775695125473}, Value: 0.8202230426592433
+Trial 13, Params: {'learning_rate': 0.40563026118959067, 'colsample_bylevel': 0.9994679883284114, 'bagging_temperature': 0.9502067810206187}, Value: 0.8199817924523949
+Trial 14, Params: {'learning_rate': 0.4915567930371435, 'colsample_bylevel': 0.8971905823630841, 'bagging_temperature': 0.9039134916112169}, Value: 0.8138170187603612
+Trial 15, Params: {'learning_rate': 0.26735174457862215, 'colsample_bylevel': 0.9444579843686413, 'bagging_temperature': 0.8777618214512334}, Value: 0.8104418937616857
+Trial 16, Params: {'learning_rate': 0.3366830943724257, 'colsample_bylevel': 0.976828221907347, 'bagging_temperature': 0.9951477780460848}, Value: 0.8185123802575065
+Trial 17, Params: {'learning_rate': 0.4097185351329497, 'colsample_bylevel': 0.9117651749442373, 'bagging_temperature': 0.9188619920546086}, Value: 0.82143964809833
+Trial 18, Params: {'learning_rate': 0.44300965881380566, 'colsample_bylevel': 0.841554275779379, 'bagging_temperature': 0.9522916114611875}, Value: 0.8166907571591692
+Trial 19, Params: {'learning_rate': 0.40817188836769724, 'colsample_bylevel': 0.9094145740730559, 'bagging_temperature': 0.9373412134473156}, Value: 0.8207132640792357
+Trial 20, Params: {'learning_rate': 0.46718486609165305, 'colsample_bylevel': 0.8851870865127064, 'bagging_temperature': 0.8805586023573264}, Value: 0.8172882532322321
+Trial 21, Params: {'learning_rate': 0.3875730587334621, 'colsample_bylevel': 0.9463455916570144, 'bagging_temperature': 0.9192512423404159}, Value: 0.819914513265218
+Trial 22, Params: {'learning_rate': 0.35964708411022295, 'colsample_bylevel': 0.9083632866818577, 'bagging_temperature': 0.9137353490594399}, Value: 0.8193913768556114
+Trial 23, Params: {'learning_rate': 0.40671148521196016, 'colsample_bylevel': 0.9504702755018893, 'bagging_temperature': 0.9666598017799581}, Value: 0.8208399932459173
+Trial 24, Params: {'learning_rate': 0.32157107889374903, 'colsample_bylevel': 0.9842810352382496, 'bagging_temperature': 0.923414400612367}, Value: 0.8184897067488658
+Trial 25, Params: {'learning_rate': 0.3673807234447184, 'colsample_bylevel': 0.9273105713303249, 'bagging_temperature': 0.8593830355572403}, Value: 0.8199898824763213
+Trial 26, Params: {'learning_rate': 0.4190899263930882, 'colsample_bylevel': 0.8568658105604453, 'bagging_temperature': 0.8928785582945541}, Value: 0.8177117995640731
+Trial 27, Params: {'learning_rate': 0.4483902726415992, 'colsample_bylevel': 0.9635268490693656, 'bagging_temperature': 0.9397491401352366}, Value: 0.8154649628050485
+Trial 28, Params: {'learning_rate': 0.4972959257522104, 'colsample_bylevel': 0.8977852905760255, 'bagging_temperature': 0.9696671444063647}, Value: 0.8104496954789442
+Trial 29, Params: {'learning_rate': 0.3528976107260968, 'colsample_bylevel': 0.9140217619536954, 'bagging_temperature': 0.9270399798998881}, Value: 0.8237820108831968
+Trial 30, Params: {'learning_rate': 0.35058837609700355, 'colsample_bylevel': 0.9179941521436441, 'bagging_temperature': 0.9333466840802763}, Value: 0.8198380575731997
+Trial 31, Params: {'learning_rate': 0.38973544042484176, 'colsample_bylevel': 0.938125056171817, 'bagging_temperature': 0.9107307188453416}, Value: 0.8172960082664801
+Trial 32, Params: {'learning_rate': 0.3638193103165047, 'colsample_bylevel': 0.9227280105117672, 'bagging_temperature': 0.9277896367895215}, Value: 0.8199474065506628
+Trial 33, Params: {'learning_rate': 0.2801536261592919, 'colsample_bylevel': 0.9147937325431347, 'bagging_temperature': 0.944511078405641}, Value: 0.8156974043690116
+Trial 34, Params: {'learning_rate': 0.33718564471515833, 'colsample_bylevel': 0.9541953045404068, 'bagging_temperature': 0.8856477873950325}, Value: 0.8226142019469254
+Trial 35, Params: {'learning_rate': 0.33920528919005305, 'colsample_bylevel': 0.886640733135719, 'bagging_temperature': 0.8927161771031719}, Value: 0.8194120998105229
+Trial 36, Params: {'learning_rate': 0.3190285238107069, 'colsample_bylevel': 0.9565151142398637, 'bagging_temperature': 0.8460484674162934}, Value: 0.8158568166353326
+Trial 37, Params: {'learning_rate': 0.25001924985633545, 'colsample_bylevel': 0.9756117380553841, 'bagging_temperature': 0.9641866773950984}, Value: 0.807510075594797
+Trial 38, Params: {'learning_rate': 0.2913282225131689, 'colsample_bylevel': 0.9317399997484371, 'bagging_temperature': 0.9295472889621031}, Value: 0.8135126760458172
+Trial 39, Params: {'learning_rate': 0.431209383473001, 'colsample_bylevel': 0.8687515834650515, 'bagging_temperature': 0.880478371941775}, Value: 0.8138466379519708
+Trial 40, Params: {'learning_rate': 0.30665090268755923, 'colsample_bylevel': 0.8006228955790552, 'bagging_temperature': 0.8651766657973886}, Value: 0.8183992932207289
+Trial 41, Params: {'learning_rate': 0.3432913171877877, 'colsample_bylevel': 0.9416085394855064, 'bagging_temperature': 0.9155018893901383}, Value: 0.8203474756981637
+Trial 42, Params: {'learning_rate': 0.3747257092041653, 'colsample_bylevel': 0.96956418546195, 'bagging_temperature': 0.9044333794202964}, Value: 0.8216354022871546
+Trial 43, Params: {'learning_rate': 0.39776787068104213, 'colsample_bylevel': 0.982868043044257, 'bagging_temperature': 0.887914610961033}, Value: 0.8207350300770819
+Trial 44, Params: {'learning_rate': 0.37039965577875833, 'colsample_bylevel': 0.9674967910689141, 'bagging_temperature': 0.9056756135157042}, Value: 0.8166426353484197
+Trial 45, Params: {'learning_rate': 0.4203694249708349, 'colsample_bylevel': 0.9931045874035969, 'bagging_temperature': 0.9228221458357195}, Value: 0.8228807073419299
+Trial 46, Params: {'learning_rate': 0.42305612120110836, 'colsample_bylevel': 0.9929733351815545, 'bagging_temperature': 0.9026551056886268}, Value: 0.8197230918394492
+Trial 47, Params: {'learning_rate': 0.35047192077680894, 'colsample_bylevel': 0.9871856861892961, 'bagging_temperature': 0.8428289774165385}, Value: 0.8211485768634084
+Trial 48, Params: {'learning_rate': 0.47051072220586215, 'colsample_bylevel': 0.9994095430030748, 'bagging_temperature': 0.946021471685471}, Value: 0.813772198527723
+Trial 49, Params: {'learning_rate': 0.43501380489413594, 'colsample_bylevel': 0.9714580027004752, 'bagging_temperature': 0.9576233128443845}, Value: 0.81535402442614
+Trial 0, Params: {'colsample_bylevel': 0.9557440673791078, 'bagging_temperature': 0.8709935946972602}, Value: 0.8185326700440587
+Trial 1, Params: {'colsample_bylevel': 0.8102920753064033, 'bagging_temperature': 0.8920016964061269}, Value: 0.8188234782735048
+Trial 2, Params: {'colsample_bylevel': 0.8267348788149795, 'bagging_temperature': 0.8978393524000914}, Value: 0.8211669009401898
+Trial 3, Params: {'colsample_bylevel': 0.8081673343319685, 'bagging_temperature': 0.8623888000084216}, Value: 0.8174579580225141
+Trial 4, Params: {'colsample_bylevel': 0.8150111581792092, 'bagging_temperature': 0.8323255746577704}, Value: 0.8149152097079057
+Trial 5, Params: {'colsample_bylevel': 0.9629026946113057, 'bagging_temperature': 0.9710480020169472}, Value: 0.817250137018716
+Trial 6, Params: {'colsample_bylevel': 0.8787687901816403, 'bagging_temperature': 0.9801795505110592}, Value: 0.8192067997726434
+Trial 7, Params: {'colsample_bylevel': 0.8139584152861978, 'bagging_temperature': 0.8734463232032892}, Value: 0.817566273260639
+Trial 8, Params: {'colsample_bylevel': 0.8104067368519517, 'bagging_temperature': 0.9796967785780052}, Value: 0.8191604874709041
+Trial 9, Params: {'colsample_bylevel': 0.9887554537776044, 'bagging_temperature': 0.8652556064004866}, Value: 0.8192616774238726
+Trial 10, Params: {'colsample_bylevel': 0.8878729720124995, 'bagging_temperature': 0.9326055629772599}, Value: 0.8205692220145396
+Trial 11, Params: {'colsample_bylevel': 0.8751579814947865, 'bagging_temperature': 0.9333174211356162}, Value: 0.8153970257307102
+Trial 12, Params: {'colsample_bylevel': 0.8589163901909302, 'bagging_temperature': 0.9312456608869735}, Value: 0.820552440281784
+Trial 13, Params: {'colsample_bylevel': 0.9205690309273697, 'bagging_temperature': 0.930417970662591}, Value: 0.8170372863417923
+Trial 14, Params: {'colsample_bylevel': 0.8464138953080107, 'bagging_temperature': 0.8019192774755548}, Value: 0.8172527734544426
+Trial 15, Params: {'colsample_bylevel': 0.9098277083437707, 'bagging_temperature': 0.9094011406165602}, Value: 0.8209548260193309
+Trial 16, Params: {'colsample_bylevel': 0.9228476951166878, 'bagging_temperature': 0.9031951156093423}, Value: 0.8193168123769737
+Trial 17, Params: {'colsample_bylevel': 0.9196817478883397, 'bagging_temperature': 0.9096108081107008}, Value: 0.8190490581458192
+Trial 18, Params: {'colsample_bylevel': 0.8508835764906099, 'bagging_temperature': 0.9546171984715487}, Value: 0.8218829667220412
+Trial 19, Params: {'colsample_bylevel': 0.8413653380400059, 'bagging_temperature': 0.9568294456304426}, Value: 0.8194400755463397
+Trial 20, Params: {'colsample_bylevel': 0.8357793410922226, 'bagging_temperature': 0.9534615425698594}, Value: 0.8150182058037145
+Trial 21, Params: {'colsample_bylevel': 0.8991335791854247, 'bagging_temperature': 0.8932000306520259}, Value: 0.8155891165062197
+Trial 22, Params: {'colsample_bylevel': 0.8603335772313536, 'bagging_temperature': 0.9179911198457341}, Value: 0.8208278529086785
+Trial 23, Params: {'colsample_bylevel': 0.8333767930534377, 'bagging_temperature': 0.9548878673497898}, Value: 0.8181060053075951
+Trial 24, Params: {'colsample_bylevel': 0.9436058823169112, 'bagging_temperature': 0.9925586191264653}, Value: 0.8218338876949443
+Trial 25, Params: {'colsample_bylevel': 0.9742770048058108, 'bagging_temperature': 0.9963562282393224}, Value: 0.8214756945032089
+Trial 26, Params: {'colsample_bylevel': 0.950608896596014, 'bagging_temperature': 0.9954347049778621}, Value: 0.8209151663102228
+Trial 27, Params: {'colsample_bylevel': 0.99788133400588, 'bagging_temperature': 0.9998410212066979}, Value: 0.8236450774874552
+Trial 28, Params: {'colsample_bylevel': 0.9411753639561354, 'bagging_temperature': 0.9719460878473936}, Value: 0.8202852554166904
+Trial 29, Params: {'colsample_bylevel': 0.9996794158508707, 'bagging_temperature': 0.998979000980847}, Value: 0.8175481755687551
+Trial 30, Params: {'colsample_bylevel': 0.9742740254682085, 'bagging_temperature': 0.9848921873406306}, Value: 0.8214756945032089
+Trial 31, Params: {'colsample_bylevel': 0.9797099129606386, 'bagging_temperature': 0.9963709358275252}, Value: 0.8170394844284047
+Trial 32, Params: {'colsample_bylevel': 0.9381885972136864, 'bagging_temperature': 0.9630044103014497}, Value: 0.8214197586696097
+Trial 33, Params: {'colsample_bylevel': 0.9666413588159586, 'bagging_temperature': 0.9862573337669}, Value: 0.8203997788635462
+Trial 34, Params: {'colsample_bylevel': 0.9954694378395547, 'bagging_temperature': 0.9421863223166754}, Value: 0.8206382145204205
+Trial 35, Params: {'colsample_bylevel': 0.9830057092159831, 'bagging_temperature': 0.9677936069980524}, Value: 0.8158216224158077
+Trial 36, Params: {'colsample_bylevel': 0.9570162570622518, 'bagging_temperature': 0.9889490808197586}, Value: 0.8195196161765242
+Trial 37, Params: {'colsample_bylevel': 0.9703628624702535, 'bagging_temperature': 0.9465633116764126}, Value: 0.8184601923348644
+Trial 38, Params: {'colsample_bylevel': 0.9361569924010167, 'bagging_temperature': 0.9755268118174639}, Value: 0.8207721427315666
+Trial 39, Params: {'colsample_bylevel': 0.9878346758500411, 'bagging_temperature': 0.9993255437354136}, Value: 0.817495358107651
+Trial 40, Params: {'colsample_bylevel': 0.9528816124321723, 'bagging_temperature': 0.9642113720043062}, Value: 0.8187874054905233
+Trial 41, Params: {'colsample_bylevel': 0.9749588172874603, 'bagging_temperature': 0.9854787711857343}, Value: 0.8197802113685515
+Trial 42, Params: {'colsample_bylevel': 0.964157938232786, 'bagging_temperature': 0.9813691444364856}, Value: 0.8196525499656288
+Trial 43, Params: {'colsample_bylevel': 0.9901622134842054, 'bagging_temperature': 0.9875109323357668}, Value: 0.8202833463293733
+Trial 44, Params: {'colsample_bylevel': 0.9737310464592478, 'bagging_temperature': 0.9739249947907127}, Value: 0.8198134134146677
+Trial 45, Params: {'colsample_bylevel': 0.9808711616420728, 'bagging_temperature': 0.9903283413392517}, Value: 0.8180448560471418
+Trial 46, Params: {'colsample_bylevel': 0.9451499106600163, 'bagging_temperature': 0.9759405500694569}, Value: 0.8185932149018992
+Trial 47, Params: {'colsample_bylevel': 0.9597625890079182, 'bagging_temperature': 0.8338044822769799}, Value: 0.8187584879460292
+Trial 48, Params: {'colsample_bylevel': 0.9314764958293829, 'bagging_temperature': 0.8752179506034129}, Value: 0.8220919503157589
+Trial 49, Params: {'colsample_bylevel': 0.9293583354941808, 'bagging_temperature': 0.8811558519729152}, Value: 0.8198918298922004
+Trial 0, Params: {'learning_rate': 0.0659312079974004, 'n_estimators': 2000}, Value: 0.8499418936318595
+Trial 1, Params: {'learning_rate': 0.013658000073219814, 'n_estimators': 6000}, Value: 0.8536726945410189
+Trial 2, Params: {'learning_rate': 0.04802401889616734, 'n_estimators': 2000}, Value: 0.8519133600102183
+Trial 3, Params: {'learning_rate': 0.014538108467438757, 'n_estimators': 4000}, Value: 0.849991887984061
+Trial 0, Params: {'learning_rate': 0.04720198138337534, 'n_estimators': 2000}, Value: 0.8518822289133563
+Trial 1, Params: {'learning_rate': 0.057146770723854275, 'n_estimators': 7000}, Value: 0.8504547488909002
+Trial 2, Params: {'learning_rate': 0.024136920678996397, 'n_estimators': 2000}, Value: 0.8446841332713608
+Trial 3, Params: {'learning_rate': 0.06935479722291603, 'n_estimators': 10000}, Value: 0.850529952716669
+Trial 4, Params: {'learning_rate': 0.09109715919681403, 'n_estimators': 8000}, Value: 0.848467652578293
+Trial 5, Params: {'learning_rate': 0.014811433585407378, 'n_estimators': 6000}, Value: 0.8536975359622208
+Trial 6, Params: {'learning_rate': 0.013880288110081853, 'n_estimators': 8000}, Value: 0.8546340070613618
+Trial 7, Params: {'learning_rate': 0.046895270234883546, 'n_estimators': 8000}, Value: 0.8523750875150192
+Trial 8, Params: {'learning_rate': 0.04971453239216694, 'n_estimators': 3000}, Value: 0.8522451237459461
+Trial 9, Params: {'learning_rate': 0.08796016245549343, 'n_estimators': 3000}, Value: 0.8490336520476596
+Trial 10, Params: {'learning_rate': 0.010574493584098942, 'n_estimators': 10000}, Value: 0.8544840130908575
+Trial 11, Params: {'learning_rate': 0.01009731710312938, 'n_estimators': 10000}, Value: 0.8551505253421595
+Trial 12, Params: {'learning_rate': 0.018443754451697453, 'n_estimators': 9000}, Value: 0.8545646501908515
+Trial 0, Params: {'learning_rate': 0.04962459001480732, 'n_estimators': 5000}, Value: 0.8521962863967026
+Trial 1, Params: {'learning_rate': 0.012338659608395447, 'n_estimators': 5000}, Value: 0.8508278000162754
+Trial 2, Params: {'learning_rate': 0.021923620305428358, 'n_estimators': 10000}, Value: 0.8536290394146604
+Trial 3, Params: {'learning_rate': 0.031361850183088937, 'n_estimators': 6000}, Value: 0.852715110737158
+Trial 4, Params: {'learning_rate': 0.038126933260014956, 'n_estimators': 10000}, Value: 0.8520486809258543
+Trial 5, Params: {'learning_rate': 0.01989903326123694, 'n_estimators': 10000}, Value: 0.8538583034510309
+Trial 6, Params: {'learning_rate': 0.03057099602121107, 'n_estimators': 8000}, Value: 0.853868293230297
+Trial 7, Params: {'learning_rate': 0.02610192471354208, 'n_estimators': 10000}, Value: 0.8532628136897114
+Trial 8, Params: {'learning_rate': 0.04345966066331349, 'n_estimators': 6000}, Value: 0.852449024970668
+Trial 9, Params: {'learning_rate': 0.03855257378194005, 'n_estimators': 9000}, Value: 0.8515475932604272
+Trial 10, Params: {'learning_rate': 0.015081896343353688, 'n_estimators': 8000}, Value: 0.8542660769772557
+Trial 11, Params: {'learning_rate': 0.014795051132350062, 'n_estimators': 8000}, Value: 0.854843006750662
+Trial 12, Params: {'learning_rate': 0.013182381127871463, 'n_estimators': 8000}, Value: 0.8547442213933559
+Trial 13, Params: {'learning_rate': 0.010396803151711079, 'n_estimators': 7000}, Value: 0.8531996904611001
+Trial 14, Params: {'learning_rate': 0.014757130312691564, 'n_estimators': 7000}, Value: 0.8546938150806381
+Trial 15, Params: {'learning_rate': 0.014774096281357202, 'n_estimators': 9000}, Value: 0.8546612842937769
+Trial 16, Params: {'learning_rate': 0.017633451433312592, 'n_estimators': 8000}, Value: 0.8542344057771356
+Trial 17, Params: {'learning_rate': 0.010020797410279196, 'n_estimators': 9000}, Value: 0.8542452032763397
+Trial 18, Params: {'learning_rate': 0.017503228311301734, 'n_estimators': 7000}, Value: 0.8545530995788291
+Trial 19, Params: {'learning_rate': 0.012330137292989339, 'n_estimators': 8000}, Value: 0.8547472286931359
+Trial 0, Params: {'depth': 5, 'colsample_bylevel': 0.960227667847374, 'bagging_temperature': 0.8156272395745866, 'min_data_in_leaf': 50, 'grow_policy': 'SymmetricTree'}, Value: 0.8172156277404234
+Trial 1, Params: {'depth': 8, 'colsample_bylevel': 0.9856147080700788, 'bagging_temperature': 0.8226140165002598, 'min_data_in_leaf': 90, 'grow_policy': 'Depthwise'}, Value: 0.7410888553998605
+Trial 2, Params: {'depth': 4, 'colsample_bylevel': 0.8778313868760532, 'bagging_temperature': 0.9482774859252282, 'min_data_in_leaf': 61, 'grow_policy': 'Depthwise'}, Value: 0.768332344429506
+Trial 3, Params: {'depth': 8, 'colsample_bylevel': 0.9172319750937542, 'bagging_temperature': 0.8844149125163311, 'min_data_in_leaf': 63, 'grow_policy': 'Lossguide'}, Value: 0.7495294169464801
+Trial 4, Params: {'depth': 3, 'colsample_bylevel': 0.9958945873089077, 'bagging_temperature': 0.9793071759653517, 'min_data_in_leaf': 88, 'grow_policy': 'SymmetricTree'}, Value: 0.7962807219016641
+Trial 5, Params: {'depth': 5, 'colsample_bylevel': 0.9765965343773385, 'bagging_temperature': 0.9405536420960612, 'min_data_in_leaf': 96, 'grow_policy': 'Depthwise'}, Value: 0.7645119415755746
+Trial 6, Params: {'depth': 4, 'colsample_bylevel': 0.8900772726663473, 'bagging_temperature': 0.9277718230456227, 'min_data_in_leaf': 42, 'grow_policy': 'Depthwise'}, Value: 0.765814643559606
+Trial 7, Params: {'depth': 3, 'colsample_bylevel': 0.843419816340111, 'bagging_temperature': 0.956539836295162, 'min_data_in_leaf': 30, 'grow_policy': 'SymmetricTree'}, Value: 0.7800022041275192
+Trial 8, Params: {'depth': 6, 'colsample_bylevel': 0.9950472995870578, 'bagging_temperature': 0.9732288632074326, 'min_data_in_leaf': 62, 'grow_policy': 'SymmetricTree'}, Value: 0.8174018654571338
+Trial 9, Params: {'depth': 6, 'colsample_bylevel': 0.8883616005334577, 'bagging_temperature': 0.9263558679963244, 'min_data_in_leaf': 47, 'grow_policy': 'Lossguide'}, Value: 0.7516353433910824
+Trial 10, Params: {'depth': 7, 'colsample_bylevel': 0.8156348966816261, 'bagging_temperature': 0.9948583655029901, 'min_data_in_leaf': 75, 'grow_policy': 'SymmetricTree'}, Value: 0.8106571502548541
+Trial 11, Params: {'depth': 6, 'colsample_bylevel': 0.9463575777580601, 'bagging_temperature': 0.8073896960140121, 'min_data_in_leaf': 51, 'grow_policy': 'SymmetricTree'}, Value: 0.8189295020292274
+Trial 12, Params: {'depth': 6, 'colsample_bylevel': 0.9393610630130782, 'bagging_temperature': 0.8713604619731531, 'min_data_in_leaf': 75, 'grow_policy': 'SymmetricTree'}, Value: 0.8178168045546123
+Trial 13, Params: {'depth': 7, 'colsample_bylevel': 0.934939368378884, 'bagging_temperature': 0.8556951139195779, 'min_data_in_leaf': 77, 'grow_policy': 'SymmetricTree'}, Value: 0.8112378628561601
+Trial 14, Params: {'depth': 7, 'colsample_bylevel': 0.9439549479734759, 'bagging_temperature': 0.8567259292239955, 'min_data_in_leaf': 76, 'grow_policy': 'SymmetricTree'}, Value: 0.8088413037639277
+Trial 15, Params: {'depth': 6, 'colsample_bylevel': 0.9237030111531523, 'bagging_temperature': 0.8018524955078064, 'min_data_in_leaf': 53, 'grow_policy': 'SymmetricTree'}, Value: 0.8203653970329604
+Trial 16, Params: {'depth': 5, 'colsample_bylevel': 0.9158544431154729, 'bagging_temperature': 0.8026566218628147, 'min_data_in_leaf': 36, 'grow_policy': 'Lossguide'}, Value: 0.7599165897673916
+Trial 17, Params: {'depth': 7, 'colsample_bylevel': 0.86642581724577, 'bagging_temperature': 0.8341645102139762, 'min_data_in_leaf': 55, 'grow_policy': 'SymmetricTree'}, Value: 0.8052849621613987
+Trial 18, Params: {'depth': 6, 'colsample_bylevel': 0.9126895545263677, 'bagging_temperature': 0.8437957423493111, 'min_data_in_leaf': 51, 'grow_policy': 'SymmetricTree'}, Value: 0.8165810917314478
+Trial 19, Params: {'depth': 4, 'colsample_bylevel': 0.9591439466565244, 'bagging_temperature': 0.8926956592393214, 'min_data_in_leaf': 41, 'grow_policy': 'Lossguide'}, Value: 0.76890993904126
+Trial 20, Params: {'depth': 5, 'colsample_bylevel': 0.8593103057398241, 'bagging_temperature': 0.8018493666558582, 'min_data_in_leaf': 56, 'grow_policy': 'SymmetricTree'}, Value: 0.8203954410814814
+Trial 21, Params: {'depth': 5, 'colsample_bylevel': 0.8423191502970766, 'bagging_temperature': 0.8029840533075497, 'min_data_in_leaf': 56, 'grow_policy': 'SymmetricTree'}, Value: 0.8189967117075231
+Trial 22, Params: {'depth': 5, 'colsample_bylevel': 0.8467856352661841, 'bagging_temperature': 0.828690591022494, 'min_data_in_leaf': 68, 'grow_policy': 'SymmetricTree'}, Value: 0.8203516261129046
+Trial 23, Params: {'depth': 4, 'colsample_bylevel': 0.8531286523028053, 'bagging_temperature': 0.8348520808114711, 'min_data_in_leaf': 69, 'grow_policy': 'SymmetricTree'}, Value: 0.8043930567955586
+Trial 24, Params: {'depth': 5, 'colsample_bylevel': 0.8121780771296099, 'bagging_temperature': 0.8218739650017258, 'min_data_in_leaf': 68, 'grow_policy': 'SymmetricTree'}, Value: 0.8194034663163083
+Trial 25, Params: {'depth': 5, 'colsample_bylevel': 0.8294222099836587, 'bagging_temperature': 0.849031392513442, 'min_data_in_leaf': 68, 'grow_policy': 'SymmetricTree'}, Value: 0.82115478831946
+Trial 26, Params: {'depth': 4, 'colsample_bylevel': 0.8009311840763956, 'bagging_temperature': 0.8546937638175148, 'min_data_in_leaf': 57, 'grow_policy': 'SymmetricTree'}, Value: 0.810843726332689
+Trial 27, Params: {'depth': 6, 'colsample_bylevel': 0.8270910838331393, 'bagging_temperature': 0.9094809508175734, 'min_data_in_leaf': 45, 'grow_policy': 'SymmetricTree'}, Value: 0.8213419960982975
+Trial 28, Params: {'depth': 5, 'colsample_bylevel': 0.8238697736317493, 'bagging_temperature': 0.9089447829590427, 'min_data_in_leaf': 43, 'grow_policy': 'Lossguide'}, Value: 0.762131405362142
+Trial 29, Params: {'depth': 4, 'colsample_bylevel': 0.8299419319127691, 'bagging_temperature': 0.8757967331294519, 'min_data_in_leaf': 46, 'grow_policy': 'Depthwise'}, Value: 0.7624874030257361
+Trial 30, Params: {'depth': 6, 'colsample_bylevel': 0.8603209334746882, 'bagging_temperature': 0.9070277232762292, 'min_data_in_leaf': 35, 'grow_policy': 'SymmetricTree'}, Value: 0.822720149297125
+Trial 31, Params: {'depth': 6, 'colsample_bylevel': 0.8686405194442061, 'bagging_temperature': 0.9035385193148969, 'min_data_in_leaf': 36, 'grow_policy': 'SymmetricTree'}, Value: 0.8208467822984247
+Trial 32, Params: {'depth': 6, 'colsample_bylevel': 0.8737776432146238, 'bagging_temperature': 0.9082852051843099, 'min_data_in_leaf': 31, 'grow_policy': 'SymmetricTree'}, Value: 0.8187862337276719
+Trial 33, Params: {'depth': 7, 'colsample_bylevel': 0.8294603604593466, 'bagging_temperature': 0.9193509113042829, 'min_data_in_leaf': 37, 'grow_policy': 'SymmetricTree'}, Value: 0.8062306926018581
+Trial 34, Params: {'depth': 8, 'colsample_bylevel': 0.8351616208327773, 'bagging_temperature': 0.896904500331073, 'min_data_in_leaf': 35, 'grow_policy': 'Depthwise'}, Value: 0.7063100003654522
+Trial 35, Params: {'depth': 6, 'colsample_bylevel': 0.8626836837414472, 'bagging_temperature': 0.8802882276587826, 'min_data_in_leaf': 38, 'grow_policy': 'SymmetricTree'}, Value: 0.8169150618704467
+Trial 36, Params: {'depth': 7, 'colsample_bylevel': 0.8805075031566773, 'bagging_temperature': 0.9084364985636896, 'min_data_in_leaf': 82, 'grow_policy': 'SymmetricTree'}, Value: 0.8084043709108087
+Trial 37, Params: {'depth': 6, 'colsample_bylevel': 0.812668587596126, 'bagging_temperature': 0.9401458575529329, 'min_data_in_leaf': 32, 'grow_policy': 'Depthwise'}, Value: 0.7524740266740744
+Trial 38, Params: {'depth': 7, 'colsample_bylevel': 0.8969679513290735, 'bagging_temperature': 0.8854300788249907, 'min_data_in_leaf': 48, 'grow_policy': 'SymmetricTree'}, Value: 0.8069517929002996
+Trial 39, Params: {'depth': 8, 'colsample_bylevel': 0.8000418438910429, 'bagging_temperature': 0.9195616398911256, 'min_data_in_leaf': 41, 'grow_policy': 'Lossguide'}, Value: 0.7561689261552905
+Trial 40, Params: {'depth': 6, 'colsample_bylevel': 0.853435769629973, 'bagging_temperature': 0.9530089064454405, 'min_data_in_leaf': 34, 'grow_policy': 'SymmetricTree'}, Value: 0.8209787135072066
+Trial 41, Params: {'depth': 6, 'colsample_bylevel': 0.8531847355261682, 'bagging_temperature': 0.9597610057676744, 'min_data_in_leaf': 33, 'grow_policy': 'SymmetricTree'}, Value: 0.8181555927846024
+Trial 42, Params: {'depth': 6, 'colsample_bylevel': 0.8727236094931006, 'bagging_temperature': 0.8679636260592611, 'min_data_in_leaf': 39, 'grow_policy': 'SymmetricTree'}, Value: 0.8207682077664862
+Trial 43, Params: {'depth': 5, 'colsample_bylevel': 0.8367943461376804, 'bagging_temperature': 0.9351482528138676, 'min_data_in_leaf': 45, 'grow_policy': 'SymmetricTree'}, Value: 0.8202454876942576
+Trial 44, Params: {'depth': 6, 'colsample_bylevel': 0.8215884637131493, 'bagging_temperature': 0.9556818299683433, 'min_data_in_leaf': 30, 'grow_policy': 'SymmetricTree'}, Value: 0.8197648834491289
+Trial 45, Params: {'depth': 6, 'colsample_bylevel': 0.8881498598460088, 'bagging_temperature': 0.9700242839258927, 'min_data_in_leaf': 35, 'grow_policy': 'Depthwise'}, Value: 0.7411786211287822
+Trial 46, Params: {'depth': 5, 'colsample_bylevel': 0.8491226809681187, 'bagging_temperature': 0.8905913670010016, 'min_data_in_leaf': 96, 'grow_policy': 'SymmetricTree'}, Value: 0.8238140664846009
+Trial 47, Params: {'depth': 5, 'colsample_bylevel': 0.8500468888906317, 'bagging_temperature': 0.8908701129255758, 'min_data_in_leaf': 98, 'grow_policy': 'SymmetricTree'}, Value: 0.8245438639402414
+Trial 48, Params: {'depth': 5, 'colsample_bylevel': 0.8435461303050397, 'bagging_temperature': 0.8889610137309453, 'min_data_in_leaf': 100, 'grow_policy': 'SymmetricTree'}, Value: 0.8214585107099127
+Trial 49, Params: {'depth': 3, 'colsample_bylevel': 0.8397439278041118, 'bagging_temperature': 0.886456423706561, 'min_data_in_leaf': 99, 'grow_policy': 'SymmetricTree'}, Value: 0.7828541152617143
+Trial 0, Params: {'learning_rate': 0.005926226080953166, 'n_estimators': 11000}, Value: 0.8528341144348504
+Trial 1, Params: {'learning_rate': 0.02291585700338499, 'n_estimators': 11000}, Value: 0.8581695909301992
+Trial 2, Params: {'learning_rate': 0.006358936491595889, 'n_estimators': 15000}, Value: 0.8586909445832502
+Trial 3, Params: {'learning_rate': 0.013100070422814887, 'n_estimators': 5000}, Value: 0.8521468207945964
+Trial 4, Params: {'learning_rate': 0.02737706734361912, 'n_estimators': 13000}, Value: 0.8582032394554036
+Trial 5, Params: {'learning_rate': 0.01961605885932482, 'n_estimators': 5000}, Value: 0.8580888275619702
+Trial 6, Params: {'learning_rate': 0.015321121523245843, 'n_estimators': 13000}, Value: 0.8592770060439474
+Trial 7, Params: {'learning_rate': 0.015234766782034477, 'n_estimators': 7000}, Value: 0.8581519000052744
+Trial 8, Params: {'learning_rate': 0.007469726610750762, 'n_estimators': 11000}, Value: 0.8564542466625239
+Trial 9, Params: {'learning_rate': 0.013346212286054456, 'n_estimators': 17000}, Value: 0.8587175518689542
+Trial 10, Params: {'learning_rate': 0.008653076878065682, 'n_estimators': 17000}, Value: 0.8593838728169768
+Trial 11, Params: {'learning_rate': 0.00889858979965494, 'n_estimators': 19000}, Value: 0.8593613656006387
+Trial 12, Params: {'learning_rate': 0.008727993575887563, 'n_estimators': 19000}, Value: 0.8593883467731264
+Trial 13, Params: {'learning_rate': 0.00937536655572752, 'n_estimators': 19000}, Value: 0.8596565200629916
+Trial 14, Params: {'learning_rate': 0.009810049940344836, 'n_estimators': 19000}, Value: 0.8591972913048312
+Trial 15, Params: {'learning_rate': 0.010687670817577936, 'n_estimators': 17000}, Value: 0.8593093642063007
+Trial 16, Params: {'learning_rate': 0.007180177726302443, 'n_estimators': 19000}, Value: 0.8594904176589685
+Trial 17, Params: {'learning_rate': 0.005597323708533401, 'n_estimators': 15000}, Value: 0.8574846112311849
+Trial 18, Params: {'learning_rate': 0.005055785106743003, 'n_estimators': 15000}, Value: 0.8557802509159155
+Trial 19, Params: {'learning_rate': 0.007300388349357459, 'n_estimators': 9000}, Value: 0.8530566074071949
+Trial 0, Params: {'depth': 6, 'colsample_bylevel': 0.8287676555817275, 'bagging_temperature': 0.9609769585382695, 'min_data_in_leaf': 44, 'grow_policy': 'Depthwise'}, Value: 0.7395855984498108
+Trial 0, Params: {'depth': 5, 'colsample_bylevel': 0.8495459697458538, 'bagging_temperature': 0.964154663526558, 'min_data_in_leaf': 75, 'grow_policy': 'SymmetricTree'}, Value: 0.8216737940518326
+Trial 1, Params: {'depth': 8, 'colsample_bylevel': 0.9096948087043615, 'bagging_temperature': 0.9256680231066502, 'min_data_in_leaf': 86, 'grow_policy': 'Depthwise'}, Value: 0.7324403749918604
+Trial 2, Params: {'depth': 4, 'colsample_bylevel': 0.9741182792472647, 'bagging_temperature': 0.8795269845878297, 'min_data_in_leaf': 51, 'grow_policy': 'Depthwise'}, Value: 0.76926843980783
+Trial 3, Params: {'depth': 4, 'colsample_bylevel': 0.8752975595024204, 'bagging_temperature': 0.8876348605220511, 'min_data_in_leaf': 86, 'grow_policy': 'SymmetricTree'}, Value: 0.814393131883049
+Trial 4, Params: {'depth': 8, 'colsample_bylevel': 0.8578265052203066, 'bagging_temperature': 0.9440664382385301, 'min_data_in_leaf': 47, 'grow_policy': 'Lossguide'}, Value: 0.7474003944554994
+Trial 5, Params: {'depth': 5, 'colsample_bylevel': 0.8762286118458178, 'bagging_temperature': 0.8510507146675221, 'min_data_in_leaf': 81, 'grow_policy': 'Depthwise'}, Value: 0.7606065845828237
+Trial 6, Params: {'depth': 3, 'colsample_bylevel': 0.9376404079003591, 'bagging_temperature': 0.9284299377365723, 'min_data_in_leaf': 68, 'grow_policy': 'SymmetricTree'}, Value: 0.7938649180867998
+Trial 7, Params: {'depth': 4, 'colsample_bylevel': 0.8530062546748556, 'bagging_temperature': 0.8532692486268314, 'min_data_in_leaf': 71, 'grow_policy': 'Lossguide'}, Value: 0.7598517627383714
+Trial 8, Params: {'depth': 4, 'colsample_bylevel': 0.9172378097921778, 'bagging_temperature': 0.835877653387585, 'min_data_in_leaf': 60, 'grow_policy': 'Depthwise'}, Value: 0.7650495123093402
+Trial 9, Params: {'depth': 6, 'colsample_bylevel': 0.9378426910053166, 'bagging_temperature': 0.8609379331730516, 'min_data_in_leaf': 91, 'grow_policy': 'Depthwise'}, Value: 0.753306774910301
+Trial 10, Params: {'depth': 6, 'colsample_bylevel': 0.8254693678875917, 'bagging_temperature': 0.9994972615793558, 'min_data_in_leaf': 30, 'grow_policy': 'SymmetricTree'}, Value: 0.818885230181033
+Trial 11, Params: {'depth': 6, 'colsample_bylevel': 0.8023952729417367, 'bagging_temperature': 0.9913545558489076, 'min_data_in_leaf': 37, 'grow_policy': 'SymmetricTree'}, Value: 0.8192512445303564
+Trial 12, Params: {'depth': 7, 'colsample_bylevel': 0.8019971644420413, 'bagging_temperature': 0.996750994048971, 'min_data_in_leaf': 31, 'grow_policy': 'SymmetricTree'}, Value: 0.8095480032155515
+Trial 13, Params: {'depth': 5, 'colsample_bylevel': 0.8044476983518887, 'bagging_temperature': 0.9527486485577791, 'min_data_in_leaf': 98, 'grow_policy': 'SymmetricTree'}, Value: 0.8122459202324743
+Trial 14, Params: {'depth': 7, 'colsample_bylevel': 0.8446383866142748, 'bagging_temperature': 0.9721667296180424, 'min_data_in_leaf': 50, 'grow_policy': 'SymmetricTree'}, Value: 0.8076747781726585
+Trial 15, Params: {'depth': 6, 'colsample_bylevel': 0.8323783368113014, 'bagging_temperature': 0.9680510945232805, 'min_data_in_leaf': 41, 'grow_policy': 'SymmetricTree'}, Value: 0.8209321563501332
+Trial 16, Params: {'depth': 7, 'colsample_bylevel': 0.8298598878704871, 'bagging_temperature': 0.8126417394149381, 'min_data_in_leaf': 74, 'grow_policy': 'SymmetricTree'}, Value: 0.8063027089001314
+Trial 17, Params: {'depth': 5, 'colsample_bylevel': 0.8856324650179457, 'bagging_temperature': 0.9633836908848455, 'min_data_in_leaf': 61, 'grow_policy': 'Lossguide'}, Value: 0.7645731626324317
+Trial 18, Params: {'depth': 3, 'colsample_bylevel': 0.9984143414865007, 'bagging_temperature': 0.9127156930021346, 'min_data_in_leaf': 42, 'grow_policy': 'SymmetricTree'}, Value: 0.7912812050343943
+Trial 19, Params: {'depth': 6, 'colsample_bylevel': 0.8315397130972758, 'bagging_temperature': 0.9732431991029453, 'min_data_in_leaf': 57, 'grow_policy': 'SymmetricTree'}, Value: 0.8183151915909453
+Trial 20, Params: {'depth': 5, 'colsample_bylevel': 0.8645428978201323, 'bagging_temperature': 0.9382297005396485, 'min_data_in_leaf': 77, 'grow_policy': 'Lossguide'}, Value: 0.7675740075489422
+Trial 21, Params: {'depth': 6, 'colsample_bylevel': 0.8171793125227592, 'bagging_temperature': 0.9820860615884508, 'min_data_in_leaf': 38, 'grow_policy': 'SymmetricTree'}, Value: 0.8177041853744924
+Trial 22, Params: {'depth': 7, 'colsample_bylevel': 0.8404727375235044, 'bagging_temperature': 0.9824369073967463, 'min_data_in_leaf': 38, 'grow_policy': 'SymmetricTree'}, Value: 0.8081133000986938
+Trial 23, Params: {'depth': 6, 'colsample_bylevel': 0.814865650834261, 'bagging_temperature': 0.9561746816316719, 'min_data_in_leaf': 42, 'grow_policy': 'SymmetricTree'}, Value: 0.815362971570049
+Trial 24, Params: {'depth': 5, 'colsample_bylevel': 0.8057963168009751, 'bagging_temperature': 0.9903617054560943, 'min_data_in_leaf': 54, 'grow_policy': 'SymmetricTree'}, Value: 0.8177801533120161
+Trial 25, Params: {'depth': 6, 'colsample_bylevel': 0.8418716427846827, 'bagging_temperature': 0.9068216934737866, 'min_data_in_leaf': 36, 'grow_policy': 'SymmetricTree'}, Value: 0.8191963507047847
+Trial 26, Params: {'depth': 7, 'colsample_bylevel': 0.897671857407623, 'bagging_temperature': 0.9674651449209692, 'min_data_in_leaf': 67, 'grow_policy': 'SymmetricTree'}, Value: 0.8075814900409704
+Trial 27, Params: {'depth': 5, 'colsample_bylevel': 0.8181511375515952, 'bagging_temperature': 0.9419584181444302, 'min_data_in_leaf': 46, 'grow_policy': 'SymmetricTree'}, Value: 0.8229933701050414
+Trial 28, Params: {'depth': 5, 'colsample_bylevel': 0.8667654057765128, 'bagging_temperature': 0.9224538813452177, 'min_data_in_leaf': 45, 'grow_policy': 'Lossguide'}, Value: 0.7571456665210714
+Trial 29, Params: {'depth': 8, 'colsample_bylevel': 0.8203429784252122, 'bagging_temperature': 0.9390749308848471, 'min_data_in_leaf': 63, 'grow_policy': 'SymmetricTree'}, Value: 0.7869574507659736
+Trial 30, Params: {'depth': 4, 'colsample_bylevel': 0.8955436620589533, 'bagging_temperature': 0.952024004978084, 'min_data_in_leaf': 78, 'grow_policy': 'Depthwise'}, Value: 0.763311920217151
+Trial 31, Params: {'depth': 5, 'colsample_bylevel': 0.8327896292230843, 'bagging_temperature': 0.9825573822367205, 'min_data_in_leaf': 36, 'grow_policy': 'SymmetricTree'}, Value: 0.8194071326573628
+Trial 32, Params: {'depth': 5, 'colsample_bylevel': 0.8344774905321254, 'bagging_temperature': 0.9802955662068096, 'min_data_in_leaf': 33, 'grow_policy': 'SymmetricTree'}, Value: 0.8195000734233338
+Trial 33, Params: {'depth': 4, 'colsample_bylevel': 0.850469448595769, 'bagging_temperature': 0.9626156213413675, 'min_data_in_leaf': 52, 'grow_policy': 'SymmetricTree'}, Value: 0.8108907294384409
+Trial 34, Params: {'depth': 5, 'colsample_bylevel': 0.8158369840598235, 'bagging_temperature': 0.8957666372309168, 'min_data_in_leaf': 46, 'grow_policy': 'SymmetricTree'}, Value: 0.8201641645176746
+Trial 35, Params: {'depth': 5, 'colsample_bylevel': 0.815183567386045, 'bagging_temperature': 0.8898494645499218, 'min_data_in_leaf': 46, 'grow_policy': 'SymmetricTree'}, Value: 0.8180096833421651
+Trial 36, Params: {'depth': 4, 'colsample_bylevel': 0.8633759069778737, 'bagging_temperature': 0.9250948169067609, 'min_data_in_leaf': 85, 'grow_policy': 'Depthwise'}, Value: 0.765792734490518
+Trial 37, Params: {'depth': 5, 'colsample_bylevel': 0.8802565737712545, 'bagging_temperature': 0.8813483818667432, 'min_data_in_leaf': 48, 'grow_policy': 'SymmetricTree'}, Value: 0.8234295439510795
+Trial 38, Params: {'depth': 3, 'colsample_bylevel': 0.8804023326058424, 'bagging_temperature': 0.8770723919693824, 'min_data_in_leaf': 41, 'grow_policy': 'Lossguide'}, Value: 0.7529988609359776
+Trial 39, Params: {'depth': 4, 'colsample_bylevel': 0.9193686277052503, 'bagging_temperature': 0.8683364405963198, 'min_data_in_leaf': 57, 'grow_policy': 'Depthwise'}, Value: 0.7684178446899754
+Trial 40, Params: {'depth': 6, 'colsample_bylevel': 0.8546144831285151, 'bagging_temperature': 0.911263039176265, 'min_data_in_leaf': 49, 'grow_policy': 'SymmetricTree'}, Value: 0.8221433192791624
+Trial 41, Params: {'depth': 6, 'colsample_bylevel': 0.854450793758751, 'bagging_temperature': 0.9119340495716365, 'min_data_in_leaf': 53, 'grow_policy': 'SymmetricTree'}, Value: 0.8215093882240542
+Trial 42, Params: {'depth': 6, 'colsample_bylevel': 0.8567782807742365, 'bagging_temperature': 0.9074197225606249, 'min_data_in_leaf': 56, 'grow_policy': 'SymmetricTree'}, Value: 0.8172511547584438
+Trial 43, Params: {'depth': 5, 'colsample_bylevel': 0.888688537069032, 'bagging_temperature': 0.8825644824209139, 'min_data_in_leaf': 52, 'grow_policy': 'SymmetricTree'}, Value: 0.8197966822059607
+Trial 44, Params: {'depth': 6, 'colsample_bylevel': 0.8725229870442965, 'bagging_temperature': 0.917403488509419, 'min_data_in_leaf': 50, 'grow_policy': 'SymmetricTree'}, Value: 0.81150481439961
+Trial 45, Params: {'depth': 4, 'colsample_bylevel': 0.9071630526067495, 'bagging_temperature': 0.9323287454155675, 'min_data_in_leaf': 65, 'grow_policy': 'SymmetricTree'}, Value: 0.8162689861564211
+Trial 46, Params: {'depth': 5, 'colsample_bylevel': 0.8488148557744897, 'bagging_temperature': 0.8991760694450126, 'min_data_in_leaf': 48, 'grow_policy': 'SymmetricTree'}, Value: 0.8222107851885332
+Trial 47, Params: {'depth': 5, 'colsample_bylevel': 0.8736919994603654, 'bagging_temperature': 0.8498399325618715, 'min_data_in_leaf': 48, 'grow_policy': 'SymmetricTree'}, Value: 0.8202787376491034
+Trial 48, Params: {'depth': 5, 'colsample_bylevel': 0.8446375617473544, 'bagging_temperature': 0.9014521988215435, 'min_data_in_leaf': 60, 'grow_policy': 'Depthwise'}, Value: 0.7578156792140925
+Trial 49, Params: {'depth': 4, 'colsample_bylevel': 0.8515157426563981, 'bagging_temperature': 0.8695476349764428, 'min_data_in_leaf': 84, 'grow_policy': 'SymmetricTree'}, Value: 0.8104142195111702

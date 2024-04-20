@@ -1,0 +1,272 @@
+Trial 0, Params: {'hidden_layer_sizes': (8,), 'activation': 'tanh', 'alpha': 0.0015555688373127799}, Value: 0.8629337735746704
+Trial 1, Params: {'hidden_layer_sizes': (30, 10), 'activation': 'relu', 'alpha': 0.018529758403637926}, Value: 0.8532279110165295
+Trial 2, Params: {'hidden_layer_sizes': (30, 10), 'activation': 'tanh', 'alpha': 0.013744384234947284}, Value: 0.8371294468727555
+Trial 3, Params: {'hidden_layer_sizes': (50,), 'activation': 'relu', 'alpha': 0.007672281291817318}, Value: 0.8449648924997106
+Trial 4, Params: {'hidden_layer_sizes': (50, 30, 10), 'activation': 'tanh', 'alpha': 0.0012700222328909428}, Value: 0.7994212247539074
+Trial 5, Params: {'hidden_layer_sizes': (50, 10), 'activation': 'relu', 'alpha': 0.01785748008330996}, Value: 0.8380077577648496
+Trial 6, Params: {'hidden_layer_sizes': (50, 30), 'activation': 'relu', 'alpha': 0.018920183247867536}, Value: 0.823269940178816
+Trial 7, Params: {'hidden_layer_sizes': (50,), 'activation': 'tanh', 'alpha': 0.0010816720744346014}, Value: 0.8260618359422713
+Trial 8, Params: {'hidden_layer_sizes': (50, 30, 10), 'activation': 'tanh', 'alpha': 0.0035873623826981715}, Value: 0.799889390037936
+Trial 9, Params: {'hidden_layer_sizes': (50, 10), 'activation': 'tanh', 'alpha': 0.03034094699383124}, Value: 0.8155822231627626
+Trial 10, Params: {'hidden_layer_sizes': (8,), 'activation': 'tanh', 'alpha': 0.07517072510538286}, Value: 0.8209736041417444
+Trial 11, Params: {'hidden_layer_sizes': (30, 10), 'activation': 'relu', 'alpha': 0.004236981501512756}, Value: 0.8528985146946093
+Trial 0, Params: {'hidden_layer_sizes': (10,), 'activation': 'tanh', 'alpha': 0.0013783690575803354}, Value: 0.8709597757011872
+Trial 1, Params: {'hidden_layer_sizes': (10,), 'activation': 'tanh', 'alpha': 0.001269350804370056}, Value: 0.8709580026754302
+Trial 2, Params: {'hidden_layer_sizes': (20,), 'activation': 'relu', 'alpha': 0.002160278868969685}, Value: 0.8548379684784028
+Trial 3, Params: {'hidden_layer_sizes': (15,), 'activation': 'tanh', 'alpha': 0.0003863734498272499}, Value: 0.861227525926985
+Trial 4, Params: {'hidden_layer_sizes': (5,), 'activation': 'tanh', 'alpha': 0.00047801293308254676}, Value: 0.7056910487589179
+Trial 5, Params: {'hidden_layer_sizes': (10,), 'activation': 'tanh', 'alpha': 0.000689150425570642}, Value: 0.8709485585400664
+Trial 6, Params: {'hidden_layer_sizes': (8,), 'activation': 'tanh', 'alpha': 0.00392995490695094}, Value: 0.8629581373628087
+Trial 7, Params: {'hidden_layer_sizes': (20,), 'activation': 'relu', 'alpha': 0.00012249759673123046}, Value: 0.8549261046725303
+Trial 8, Params: {'hidden_layer_sizes': (8,), 'activation': 'relu', 'alpha': 0.00024075487172693882}, Value: 0.8653051124313773
+Trial 9, Params: {'hidden_layer_sizes': (20,), 'activation': 'tanh', 'alpha': 0.0003040260923988844}, Value: 0.8611338933819687
+Trial 10, Params: {'hidden_layer_sizes': (10,), 'activation': 'relu', 'alpha': 0.026124980346211458}, Value: 0.8686950614962875
+Trial 0, Params: {'hidden_layer_sizes': (9,), 'activation': 'relu', 'alpha': 0.0015537881519276505}, Value: 0.8565596558548776
+Trial 1, Params: {'hidden_layer_sizes': (9,), 'activation': 'relu', 'alpha': 0.0003167602250527872}, Value: 0.8564917877164989
+Trial 2, Params: {'hidden_layer_sizes': (12,), 'activation': 'relu', 'alpha': 0.00014565821919250335}, Value: 0.8694263295496224
+Trial 3, Params: {'hidden_layer_sizes': (9,), 'activation': 'tanh', 'alpha': 0.00023006083277150622}, Value: 0.8379345329800714
+Trial 4, Params: {'hidden_layer_sizes': (12,), 'activation': 'relu', 'alpha': 0.0033380428360941534}, Value: 0.8695497784017053
+Trial 5, Params: {'hidden_layer_sizes': (14,), 'activation': 'relu', 'alpha': 0.000907803360178147}, Value: 0.854124152625962
+Trial 6, Params: {'hidden_layer_sizes': (10,), 'activation': 'tanh', 'alpha': 0.00045008671628409875}, Value: 0.8709446632919053
+Trial 7, Params: {'hidden_layer_sizes': (10,), 'activation': 'tanh', 'alpha': 0.0002424126203266052}, Value: 0.8173288921760911
+Trial 8, Params: {'hidden_layer_sizes': (11,), 'activation': 'relu', 'alpha': 0.002471331286309426}, Value: 0.8649175792134184
+Trial 9, Params: {'hidden_layer_sizes': (13,), 'activation': 'relu', 'alpha': 0.00025829340797268226}, Value: 0.8685562970545551
+Trial 0, Params: {'activation': 'tanh', 'alpha': 0.0006231454006337514, 'solver': 'sgd'}, Value: 0.6672862417854433
+Trial 1, Params: {'activation': 'tanh', 'alpha': 0.00017699790915834756, 'solver': 'adam'}, Value: 0.8709402108488241
+Trial 2, Params: {'activation': 'relu', 'alpha': 0.001715526066470246, 'solver': 'adam'}, Value: 0.8684640506712127
+Trial 3, Params: {'activation': 'relu', 'alpha': 0.001223562183635575, 'solver': 'adam'}, Value: 0.8218587449047172
+Trial 4, Params: {'activation': 'tanh', 'alpha': 0.001563877692273135, 'solver': 'sgd'}, Value: 0.6672918687316797
+Trial 5, Params: {'activation': 'relu', 'alpha': 0.0006100250859033649, 'solver': 'adam'}, Value: 0.8684214191247209
+Trial 0, Params: {'activation': 'relu', 'alpha': 0.0005125559733145938}, Value: 0.8683556674338186
+Trial 1, Params: {'activation': 'relu', 'alpha': 0.008270793212967304}, Value: 0.8685931685523469
+Trial 2, Params: {'activation': 'relu', 'alpha': 0.0013232194894813429}, Value: 0.8684884274077935
+Trial 3, Params: {'activation': 'tanh', 'alpha': 0.006566430445696189}, Value: 0.8710436004242407
+Trial 4, Params: {'activation': 'tanh', 'alpha': 0.0007660945878800549}, Value: 0.8709498117636982
+Trial 5, Params: {'activation': 'relu', 'alpha': 0.009648167590360648}, Value: 0.8685688611420488
+Trial 6, Params: {'activation': 'relu', 'alpha': 0.0006631462725031054}, Value: 0.8684215472436542
+Trial 7, Params: {'activation': 'relu', 'alpha': 0.0001733468045066259}, Value: 0.8683470993376062
+Trial 8, Params: {'activation': 'tanh', 'alpha': 0.00014998751189797805}, Value: 0.87093977030888
+Trial 9, Params: {'activation': 'relu', 'alpha': 0.00043125408295226176}, Value: 0.8684438056657429
+Trial 0, Params: {'activation': 'tanh', 'alpha': 0.002716449305595249}, Value: 0.8709814988523753
+Trial 1, Params: {'activation': 'logistic', 'alpha': 0.0006663387184192566}, Value: 0.7157497218849265
+Trial 2, Params: {'activation': 'logistic', 'alpha': 0.00020357709380405665}, Value: 0.7157484258814976
+Trial 3, Params: {'activation': 'tanh', 'alpha': 0.0003018517649354022}, Value: 0.870942246837713
+Trial 4, Params: {'activation': 'logistic', 'alpha': 0.0009617240183320656}, Value: 0.7157504105958129
+Trial 5, Params: {'activation': 'tanh', 'alpha': 0.005375363965804591}, Value: 0.871024451807852
+Trial 6, Params: {'activation': 'tanh', 'alpha': 0.0009707917384236115}, Value: 0.8709531446029002
+Trial 7, Params: {'activation': 'logistic', 'alpha': 0.0006057799348133726}, Value: 0.7157495654927525
+Trial 8, Params: {'activation': 'logistic', 'alpha': 0.0008588612433531703}, Value: 0.7157501847399074
+Trial 9, Params: {'activation': 'tanh', 'alpha': 0.0016963918520070747}, Value: 0.8709649451658515
+Trial 0, Params: {'activation': 'identity', 'alpha': 0.002697402193438346}, Value: 0.6382160850549123
+Trial 1, Params: {'activation': 'identity', 'alpha': 0.00028675935776777416}, Value: 0.638215973516382
+Trial 2, Params: {'activation': 'identity', 'alpha': 0.009979877568816969}, Value: 0.6382164178312599
+Trial 3, Params: {'activation': 'identity', 'alpha': 0.0007611191896675756}, Value: 0.638215995519024
+Trial 4, Params: {'activation': 'identity', 'alpha': 0.0038295745145542886}, Value: 0.6382161372021468
+Trial 5, Params: {'activation': 'tanh', 'alpha': 0.00048816319783639387}, Value: 0.8709452838543065
+Trial 6, Params: {'activation': 'tanh', 'alpha': 0.005456575785239719}, Value: 0.8710257592545233
+Trial 7, Params: {'activation': 'identity', 'alpha': 0.0017057691781579849}, Value: 0.63821603925616
+Trial 8, Params: {'activation': 'tanh', 'alpha': 0.0054548277716479215}, Value: 0.87102573111567
+Trial 9, Params: {'activation': 'identity', 'alpha': 0.00029182157849682607}, Value: 0.638215973751328
+Trial 0, Params: {'alpha': 0.015090907911494254}, Value: 0.871178974576796
+Trial 1, Params: {'alpha': 0.00024982745963247075}, Value: 0.8709413985543655
+Trial 2, Params: {'alpha': 0.0004335558534066947}, Value: 0.8709443938573578
+Trial 3, Params: {'alpha': 0.022130973364906544}, Value: 0.871288554232566
+Trial 4, Params: {'alpha': 0.06841105519232489}, Value: 0.8719591855710627
+Trial 5, Params: {'alpha': 0.08903047358008159}, Value: 0.8722312861391694
+Trial 6, Params: {'alpha': 0.0037976274691326334}, Value: 0.8709989988302244
+Trial 7, Params: {'alpha': 0.00011937343510292791}, Value: 0.8709392709575979
+Trial 8, Params: {'alpha': 0.0002964703879983504}, Value: 0.8709421590965842
+Trial 9, Params: {'alpha': 0.005156458806360822}, Value: 0.8710209262839228
+Trial 10, Params: {'alpha': 0.08645534440146159}, Value: 0.8721980492927542
+Trial 11, Params: {'alpha': 0.08094858538979408}, Value: 0.8721264074578464
+Trial 12, Params: {'alpha': 0.033683644408701564}, Value: 0.8714640113572931
+Trial 13, Params: {'alpha': 0.0011260375694906572}, Value: 0.8709556711666646
+Trial 14, Params: {'alpha': 0.014624786199151328}, Value: 0.8711716483087759
+Trial 15, Params: {'alpha': 0.0972123897115448}, Value: 0.8723348278307836
+Trial 16, Params: {'alpha': 0.009504807517274385}, Value: 0.8710905956348481
+Trial 17, Params: {'alpha': 0.04149843398506932}, Value: 0.8715796340419593
+Trial 18, Params: {'alpha': 0.002077431024733321}, Value: 0.8709711336245063
+Trial 19, Params: {'alpha': 0.03913418452918548}, Value: 0.8715449141024179
+Trial 20, Params: {'alpha': 0.007233923021229536}, Value: 0.8710543066147709
+Trial 21, Params: {'alpha': 0.09453048524671583}, Value: 0.8723011569696706
+Trial 22, Params: {'alpha': 0.09124820730999139}, Value: 0.872259594502251
+Trial 23, Params: {'alpha': 0.04593594992247494}, Value: 0.8716441941505082
+Trial 24, Params: {'alpha': 0.02473039591356748}, Value: 0.8713285056779185
+Trial 25, Params: {'alpha': 0.04479325686265512}, Value: 0.8716276449507164
+Trial 26, Params: {'alpha': 0.09783514931355178}, Value: 0.8723426096184085
+Trial 27, Params: {'alpha': 0.01956491644244975}, Value: 0.8712488463114513
+Trial 28, Params: {'alpha': 0.001542576146586049}, Value: 0.8709624453956
+Trial 29, Params: {'alpha': 0.011688646267695961}, Value: 0.8711252970657906
+Trial 0, Params: {'max_iter': 500}, Value: 0.86973989409261
+Trial 1, Params: {'max_iter': 400}, Value: 0.86973989409261
+Trial 2, Params: {'max_iter': 700}, Value: 0.86973989409261
+Trial 3, Params: {'max_iter': 800}, Value: 0.86973989409261
+Trial 4, Params: {'max_iter': 900}, Value: 0.86973989409261
+Trial 5, Params: {'max_iter': 1000}, Value: 0.86973989409261
+Trial 0, Params: {'max_iter': 250}, Value: 0.8702277700004046
+Trial 1, Params: {'max_iter': 110}, Value: 0.8726914732739823
+Trial 2, Params: {'max_iter': 110}, Value: 0.8726914732739823
+Trial 3, Params: {'max_iter': 270}, Value: 0.8702277700004046
+Trial 4, Params: {'max_iter': 270}, Value: 0.8702277700004046
+Trial 5, Params: {'max_iter': 170}, Value: 0.870234774379248
+Trial 6, Params: {'max_iter': 230}, Value: 0.8702277700004046
+Trial 7, Params: {'max_iter': 130}, Value: 0.8718319034961006
+Trial 8, Params: {'max_iter': 50}, Value: 0.8409096837644334
+Trial 9, Params: {'max_iter': 270}, Value: 0.8702277700004046
+Trial 0, Params: {'max_iter': 140}, Value: 0.8716720574344168
+Trial 1, Params: {'max_iter': 110}, Value: 0.8726914732739823
+Trial 2, Params: {'max_iter': 130}, Value: 0.8718319034961006
+Trial 3, Params: {'max_iter': 80}, Value: 0.8714023763107408
+Trial 4, Params: {'max_iter': 80}, Value: 0.8714023763107408
+Trial 5, Params: {'max_iter': 90}, Value: 0.8723412511365554
+Trial 6, Params: {'max_iter': 90}, Value: 0.8723412511365554
+Trial 7, Params: {'max_iter': 150}, Value: 0.8709883132808045
+Trial 8, Params: {'max_iter': 90}, Value: 0.8723412511365554
+Trial 9, Params: {'max_iter': 130}, Value: 0.8718319034961006
+Trial 0, Params: {'alpha': 0.01909651930338204}, Value: 0.8712415693248499
+Trial 1, Params: {'alpha': 0.0014215639667215822}, Value: 0.8709604780728266
+Trial 2, Params: {'alpha': 0.044612823067989575}, Value: 0.8716250270131443
+Trial 3, Params: {'alpha': 0.03424106816366349}, Value: 0.8714723403773605
+Trial 4, Params: {'alpha': 0.000931430539186683}, Value: 0.870952503861778
+Trial 5, Params: {'alpha': 0.0024302229495371044}, Value: 0.8709768581289428
+Trial 6, Params: {'alpha': 0.00014962381106161824}, Value: 0.8709397643767156
+Trial 7, Params: {'alpha': 0.011953867226149125}, Value: 0.8711294983133092
+Trial 8, Params: {'alpha': 0.0016322077264888481}, Value: 0.8709639021784911
+Trial 9, Params: {'alpha': 0.008359729858306346}, Value: 0.8710723231757255
+Trial 10, Params: {'alpha': 0.07665874020270447}, Value: 0.8720698593034489
+Trial 11, Params: {'alpha': 0.06913710636464127}, Value: 0.8719690325616405
+Trial 12, Params: {'alpha': 0.09204299538273876}, Value: 0.8722696947631345
+Trial 13, Params: {'alpha': 0.08249032294577249}, Value: 0.8721465634810054
+Trial 14, Params: {'alpha': 0.005833985881832521}, Value: 0.8710318317766326
+Trial 15, Params: {'alpha': 0.022806420490091368}, Value: 0.8712989618203941
+Trial 16, Params: {'alpha': 0.09471730197354565}, Value: 0.8723035108042916
+Trial 17, Params: {'alpha': 0.0003335622131107155}, Value: 0.8709427638399507
+Trial 18, Params: {'alpha': 0.006470610946106865}, Value: 0.871042062061141
+Trial 19, Params: {'alpha': 0.036011251533572014}, Value: 0.8714987070777893
+Trial 20, Params: {'alpha': 0.01898333157040962}, Value: 0.8712398095108789
+Trial 21, Params: {'alpha': 0.08338978032637462}, Value: 0.8721582826437194
+Trial 22, Params: {'alpha': 0.09979595908820751}, Value: 0.8723670211440216
+Trial 23, Params: {'alpha': 0.04345465944988769}, Value: 0.8716081919820453
+Trial 24, Params: {'alpha': 0.09505952314931913}, Value: 0.8723078194229712
+Trial 25, Params: {'alpha': 0.048323690554225564}, Value: 0.8716786063300551
+Trial 26, Params: {'alpha': 0.02284218579347113}, Value: 0.8712995123912076
+Trial 27, Params: {'alpha': 0.011975821670301085}, Value: 0.871129845956282
+Trial 28, Params: {'alpha': 0.031155612587500256}, Value: 0.8714260795570196
+Trial 29, Params: {'alpha': 0.0039668794276128535}, Value: 0.871001734096
+Trial 30, Params: {'alpha': 0.014961384517929485}, Value: 0.8711769396769788
+Trial 31, Params: {'alpha': 0.05966666073172271}, Value: 0.8718389889247362
+Trial 32, Params: {'alpha': 0.09478407443325115}, Value: 0.8723043518117046
+Trial 33, Params: {'alpha': 0.09806530850766627}, Value: 0.8723454821085305
+Trial 34, Params: {'alpha': 0.053089285807977844}, Value: 0.8717466090310608
+Trial 35, Params: {'alpha': 0.030018943959741837}, Value: 0.871408940006518
+Trial 36, Params: {'alpha': 0.056041365446046}, Value: 0.871788282120271
+Trial 37, Params: {'alpha': 0.09731032466770531}, Value: 0.8723360525090822
+Trial 38, Params: {'alpha': 0.0009736488777720618}, Value: 0.8709531911104167
+Trial 39, Params: {'alpha': 0.00036619392822871905}, Value: 0.8709432958203864
+Trial 40, Params: {'alpha': 0.038981619389911064}, Value: 0.8715426658877286
+Trial 41, Params: {'alpha': 0.06402117600149972}, Value: 0.8718992152623584
+Trial 42, Params: {'alpha': 0.09315010389091337}, Value: 0.8722837254461522
+Trial 43, Params: {'alpha': 0.06188473517121482}, Value: 0.8718697590158418
+Trial 44, Params: {'alpha': 0.025450155780680703}, Value: 0.8713395193891493
+Trial 45, Params: {'alpha': 0.09644163848757106}, Value: 0.8723251776051771
+Trial 46, Params: {'alpha': 0.04395683472682598}, Value: 0.8716154981935625
+Trial 47, Params: {'alpha': 0.06809461058461427}, Value: 0.8719548874832178
+Trial 48, Params: {'alpha': 0.09922109687643337}, Value: 0.8723598783940707
+Trial 49, Params: {'alpha': 0.015403762053163982}, Value: 0.8711838869192521
+Trial 50, Params: {'alpha': 0.033624275460474536}, Value: 0.8714631235258181
+Trial 51, Params: {'alpha': 0.0999159188867304}, Value: 0.8723685101912814
+Trial 52, Params: {'alpha': 0.06885717508734612}, Value: 0.8719652384233839
+Trial 53, Params: {'alpha': 0.09940689213636983}, Value: 0.8723621882058545
+Trial 54, Params: {'alpha': 0.0001041549750911923}, Value: 0.8709390227128265
+Trial 55, Params: {'alpha': 0.04928996332223301}, Value: 0.8716924675932287
+Trial 56, Params: {'alpha': 0.07304165058316738}, Value: 0.8720216412533859
+Trial 57, Params: {'alpha': 0.07002653235485042}, Value: 0.8719810677230866
+Trial 58, Params: {'alpha': 0.04290739120218345}, Value: 0.8716002181807324
+Trial 59, Params: {'alpha': 0.09970488485109529}, Value: 0.8723658903110423
+Trial 60, Params: {'alpha': 0.07663684615827819}, Value: 0.8720695689298864
+Trial 61, Params: {'alpha': 0.0969595201071687}, Value: 0.8723316641074282
+Trial 62, Params: {'alpha': 0.053557785824124585}, Value: 0.8717532456224193
+Trial 63, Params: {'alpha': 0.07093070275347149}, Value: 0.871993271325669
+Trial 64, Params: {'alpha': 0.07767582081456079}, Value: 0.8720833286294895
+Trial 65, Params: {'alpha': 0.09934909140007593}, Value: 0.872361469756387
+Trial 66, Params: {'alpha': 0.0020979896788793414}, Value: 0.8709714673521771
+Trial 67, Params: {'alpha': 0.028701583045497997}, Value: 0.8713890102636018
+Trial 68, Params: {'alpha': 0.03787783146885966}, Value: 0.8715263723944207
+Trial 69, Params: {'alpha': 0.06062561011212498}, Value: 0.8718523154807295
+Trial 70, Params: {'alpha': 0.047647208574081945}, Value: 0.8716688799766608
+Trial 71, Params: {'alpha': 0.09818263155158674}, Value: 0.8723469456270839
+Trial 72, Params: {'alpha': 0.08091308691615083}, Value: 0.872125942335502
+Trial 73, Params: {'alpha': 0.09991969600005995}, Value: 0.8723685570679212
+Trial 74, Params: {'alpha': 0.08044326484933347}, Value: 0.8721197820498006
+Trial 75, Params: {'alpha': 0.05483810057372079}, Value: 0.8717713377778333
+Trial 76, Params: {'alpha': 0.058427129738836986}, Value: 0.8718217097489136
+Trial 77, Params: {'alpha': 0.08386969433138558}, Value: 0.872164523742953
+Trial 78, Params: {'alpha': 0.00026736090292539403}, Value: 0.8709416844583698
+Trial 79, Params: {'alpha': 0.09838676751038766}, Value: 0.8723494909055427
+Trial 80, Params: {'alpha': 0.03826933246382477}, Value: 0.871532157136213
+Trial 81, Params: {'alpha': 0.09936212465747327}, Value: 0.8723616317670096
+Trial 82, Params: {'alpha': 0.07850674798281185}, Value: 0.8720943038691905
+Trial 83, Params: {'alpha': 0.06351608741687635}, Value: 0.8718922673618164
+Trial 84, Params: {'alpha': 0.003662969486649488}, Value: 0.8709968218123173
+Trial 85, Params: {'alpha': 0.08353629631089511}, Value: 0.8721601888849273
+Trial 86, Params: {'alpha': 0.049493396005055756}, Value: 0.8716953811103505
+Trial 87, Params: {'alpha': 0.09952338533321321}, Value: 0.8723636358297462
+Trial 88, Params: {'alpha': 0.064234959942055}, Value: 0.8719021530487104
+Trial 89, Params: {'alpha': 0.08334660084373274}, Value: 0.8721577207136834
+Trial 90, Params: {'alpha': 0.043041122088615484}, Value: 0.8716021677751875
+Trial 91, Params: {'alpha': 0.08794683055344553}, Value: 0.8722173815963273
+Trial 92, Params: {'alpha': 0.008868201348620161}, Value: 0.8710804435954653
+Trial 93, Params: {'alpha': 0.09966718004734688}, Value: 0.8723654220596542
+Trial 94, Params: {'alpha': 0.07050310288184272}, Value: 0.8719875039034223
+Trial 95, Params: {'alpha': 0.05522737137423637}, Value: 0.8717768257304813
+Trial 96, Params: {'alpha': 0.09835106900778122}, Value: 0.8723490459040582
+Trial 97, Params: {'alpha': 0.07013045777130596}, Value: 0.8719824719982995
+Trial 98, Params: {'alpha': 0.08028413271289984}, Value: 0.872117693661098
+Trial 99, Params: {'alpha': 0.06201775509262404}, Value: 0.8718715982202173
+Trial 0, Params: {'max_iter': 137}, Value: 0.871250420940424
+Trial 1, Params: {'max_iter': 145}, Value: 0.8705932771634686
+Trial 2, Params: {'max_iter': 101}, Value: 0.8727463288501351
+Trial 3, Params: {'max_iter': 105}, Value: 0.8725948387236642
+Trial 4, Params: {'max_iter': 112}, Value: 0.8719220442916615
+Trial 5, Params: {'max_iter': 110}, Value: 0.8727197309783797
+Trial 6, Params: {'max_iter': 112}, Value: 0.8719220442916615
+Trial 7, Params: {'max_iter': 147}, Value: 0.871644862711495
+Trial 8, Params: {'max_iter': 110}, Value: 0.8727197309783797
+Trial 9, Params: {'max_iter': 107}, Value: 0.8723434018391807
+Trial 10, Params: {'max_iter': 122}, Value: 0.8721005149366514
+Trial 11, Params: {'max_iter': 101}, Value: 0.8727463288501351
+Trial 12, Params: {'max_iter': 100}, Value: 0.8723685570679212
+Trial 13, Params: {'max_iter': 122}, Value: 0.8721005149366514
+Trial 14, Params: {'max_iter': 100}, Value: 0.8723685570679212
+Trial 15, Params: {'max_iter': 118}, Value: 0.8720316814213014
+Trial 16, Params: {'max_iter': 117}, Value: 0.871659916565438
+Trial 17, Params: {'max_iter': 131}, Value: 0.8718387563759219
+Trial 18, Params: {'max_iter': 130}, Value: 0.8718605500957756
+Trial 19, Params: {'max_iter': 104}, Value: 0.8720480704297449
+Trial 20, Params: {'max_iter': 117}, Value: 0.871659916565438
+Trial 21, Params: {'max_iter': 104}, Value: 0.8720480704297449
+Trial 22, Params: {'max_iter': 109}, Value: 0.8726749636108115
+Trial 23, Params: {'max_iter': 101}, Value: 0.8727463288501351
+Trial 24, Params: {'max_iter': 101}, Value: 0.8727463288501351
+Trial 25, Params: {'max_iter': 104}, Value: 0.8720480704297449
+Trial 26, Params: {'max_iter': 114}, Value: 0.8723529809484709
+Trial 27, Params: {'max_iter': 107}, Value: 0.8723434018391807
+Trial 28, Params: {'max_iter': 100}, Value: 0.8723685570679212
+Trial 29, Params: {'max_iter': 137}, Value: 0.871250420940424
+Trial 0, Params: {'max_iter': 97, 'random_state': 606}, Value: 0.8617514787179429
+Trial 1, Params: {'max_iter': 107, 'random_state': 606}, Value: 0.8650963303673851
+Trial 2, Params: {'max_iter': 108, 'random_state': 606}, Value: 0.8651641250179498
+Trial 3, Params: {'max_iter': 97, 'random_state': 66}, Value: 0.768976506708122
+Trial 4, Params: {'max_iter': 119, 'random_state': 6666}, Value: 0.8609449899293031
+Trial 5, Params: {'max_iter': 118, 'random_state': 0}, Value: 0.8629788278041783
+Trial 6, Params: {'max_iter': 107, 'random_state': 6060}, Value: 0.8423513263042262
+Trial 7, Params: {'max_iter': 99, 'random_state': 66}, Value: 0.7760050040894627
+Trial 8, Params: {'max_iter': 109, 'random_state': 606}, Value: 0.8656226102375777
+Trial 9, Params: {'max_iter': 95, 'random_state': 6060}, Value: 0.8032398710552318
+Trial 10, Params: {'max_iter': 113, 'random_state': 8888}, Value: 0.8658153665033985
+Trial 11, Params: {'max_iter': 114, 'random_state': 8888}, Value: 0.8651216170023893
+Trial 12, Params: {'max_iter': 113, 'random_state': 88}, Value: 0.8524978053940322
+Trial 13, Params: {'max_iter': 90, 'random_state': 8888}, Value: 0.8627513181539817
+Trial 14, Params: {'max_iter': 112, 'random_state': 600}, Value: 0.8466686178724959
+Trial 15, Params: {'max_iter': 102, 'random_state': 100}, Value: 0.7201254283050802
+Trial 16, Params: {'max_iter': 110, 'random_state': 9999}, Value: 0.8644518340092029
